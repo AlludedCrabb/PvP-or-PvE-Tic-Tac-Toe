@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar  1 10:01:02 2019
-
-@author: Mine
-"""
 
 #PvP or PvE Tic Tac Toe
 import random
